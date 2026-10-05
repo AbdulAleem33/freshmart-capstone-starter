@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,cost_price,is_perishable
+1001,DAIR-01,Dairy,36.0,30.32,True
+1002,DAIR-02,Dairy,44.0,36.31,True
+1003,DAIR-03,Dairy,82.0,65.12,True
+1004,DAIR-04,Dairy,66.0,53.25,True
+1005,DAIR-05,Dairy,94.0,83.33,True
+1006,DAIR-06  ,Dairy,36.0,30.34,True
+1007,DAIR-07,Dairy,129.0,115.54,True
+1008,DAIR-08,Dairy,136.0,107.2,True
+1009,DAIR-09,Dairy,111.0,96.84,True
+1010,DAIR-10,Dairy,97.0,76.88,True
+1011,DAIR-11,Dairy,130.0,116.2,True
+1012,DAIR-12,Dairy,46.0,34.71,True
+1013,DAIR-13,Dairy,119.0,100.69,True
+1014,DAIR-14,Dairy,49.0,39.35,True
+1015,DAIR-15,Dairy,132.0,114.66,True
+1016,DAIR-16,Dairy,111.0,96.83,True
+1017,DAIR-17,Dairy,111.0,97.57,True
+1018,DAIR-18,Dairy,139.0,124.08,True
+1019,BAKE-01,Bakery,47.0,37.78,True
+1020,BAKE-02,Bakery,64.0,55.96,True
+1021,BAKE-03,Bakery,29.0,24.78,True
+1022,BAKE-04,Bakery,37.0,29.21,True
+1023,BAKE-05,Bakery,46.0,36.68,True
+1024,BAKE-06,Bakery,88.0,70.06,True
+1025,BAKE-07,Bakery,46.0,36.61,True
+1026,BAKE-08,Bakery,83.0,68.83,True
+1027,BAKE-09,Bakery,61.0,52.29,True
+1028,BAKE-10,Bakery,68.0,59.11,True
+1029,BAKE-11,Bakery,72.0,54.58,True
+1030,BAKE-12,Bakery,72.0,63.03,True
+1031,BAKE-13,Bakery,33.0,25.31,True
+1032,BAKE-14,Bakery,66.0,58.37,True
+1033,GROC-01,Grocery,321.0,218.11,False
+1034,GROC-02,Grocery,202.0,122.09,False
+1035,GROC-03,Grocery,229.0,143.19,False
+1036,GROC-04,Grocery,175.0,147.46,False
+1037,GROC-05,Grocery,150.0,97.13,False
+1038,GROC-06,Grocery,224.0,144.15,False
+1039,GROC-07,Grocery,249.0,161.31,False
+1040,GROC-08,Grocery,190.0,146.73,False
+1041,GROC-09  ,Grocery,274.0,179.6,False
+1042,GROC-10,Grocery,93.0,62.42,False
+1043,GROC-11,Grocery,168.0,94.47,False
+1044,GROC-12,Grocery,130.0,90.23,False
+1045,GROC-13,Grocery,187.0,128.18,False
+1046,GROC-14,Grocery,292.0,178.36,False
+1047,GROC-15,Grocery,159.0,107.4,False
+1048,GROC-16,Grocery,283.0,183.71,False
+1049,GROC-17,Grocery,348.0,234.66,False
+1050,GROC-18,Grocery,273.0,230.71,False
+1051,GROC-19,Grocery,130.0,102.11,False
+1052,GROC-20,Grocery,191.0,149.88,False
+1053,GROC-21,Grocery,248.0,199.3,False
+1054,GROC-22,Grocery,235.0,183.87,False
+1055,GROC-23,Grocery,320.0,269.82,False
+1056,GROC-24,Grocery,99.0,68.78,False
+1057,GROC-25,Grocery,120.0,83.4,False
+1058,GROC-26,Grocery,114.0,69.36,False
+1059,GROC-27,Grocery,303.0,221.28,False
+1060,GROC-28,Grocery,145.0,109.57,False
+1061,GROC-29,Grocery,313.0,406.90000000000003,False
+1062,GROC-30,Grocery,346.0,231.75,False
+1063,SNAC-01,Snacks,76.0,61.7,False
+1064,SNAC-02,Snacks,24.0,19.9,False
+1065,SNAC-03,Snacks,29.0,23.52,False
+1066,SNAC-04,Snacks,78.0,45.13,False
+1067,SNAC-05,Snacks,44.0,29.3,False
+1068,SNAC-06,Snacks,28.0,15.91,False
+1069,SNAC-07,Snacks,22.0,13.9,False
+1070,SNAC-08,Snacks,48.0,39.9,False
+1071,SNAC-09,Snacks,79.0,59.73,False
+1072,SNAC-10,Snacks,28.0,18.7,False
+1073,SNAC-11,Snacks,22.0,16.48,False
+1074,SNAC-12,Snacks,78.0,45.78,False
+1075,SNAC-13,Snacks,34.0,23.21,False
+1076,SNAC-14,Snacks,67.0,37.08,False
+1077,SNAC-15,Snacks,32.0,22.24,False
+1078,SNAC-16  ,Snacks,45.0,30.01,False
+1079,SNAC-17,Snacks,26.0,20.23,False
+1080,SNAC-18,Snacks,25.0,16.25,False
+1081,SNAC-19,Snacks,48.0,29.44,False
+1082,SNAC-20,Snacks,66.0,40.34,False
+1083,BEVE-01,Beverages,61.0,51.18,False
+1084,BEVE-02,Beverages,112.0,81.17,False
+1085,BEVE-03,Beverages,114.0,80.0,False
+1086,BEVE-04,Beverages,66.0,39.53,False
+1087,BEVE-05,Beverages,99.0,76.82,False
+1088,BEVE-06,Beverages,40.0,28.57,False
+1089,BEVE-07,Beverages,70.0,55.59,False
+1090,BEVE-08,Beverages,70.0,42.3,False
+1091,BEVE-09,Beverages,117.0,77.34,False
+1092,BEVE-10,Beverages,72.0,51.03,False
+1093,BEVE-11,Beverages,42.0,24.89,False
+1094,BEVE-12,Beverages,52.0,33.31,False
+1095,BEVE-13,Beverages,56.0,32.08,False
+1096,BEVE-14,Beverages,111.0,65.43,False
+1097,BEVE-15,Beverages,64.0,51.62,False
+1098,BEVE-16,Beverages,90.0,54.81,False
+1099,PERS-01,Personal Care,163.0,118.99,False
+1100,PERS-02,Personal Care,327.0,265.37,False
+1101,PERS-03,Personal Care,368.0,306.62,False
+1102,PERS-04,Personal Care,312.0,251.91,False
+1103,PERS-05,Personal Care,398.0,305.89,False
+1104,PERS-06,Personal Care,209.0,146.17,False
+1105,PERS-07,Personal Care,343.0,249.03,False
+1106,PERS-08,Personal Care,440.0,363.49,False
+1107,PERS-09,Personal Care,337.0,217.33,False
+1108,PERS-10,Personal Care,135.0,82.8,False
+1109,PERS-11,Personal Care,352.0,262.47,False
+1110,PERS-12,Personal Care,385.0,237.7,False
+1111,HOUS-01,Household,234.0,142.34,False
+1112,HOUS-02,Household,151.0,101.24,False
+1113,HOUS-03,Household,107.0,78.38,False
+1114,HOUS-04,Household,89.0,58.72,False
+1115,HOUS-05,Household,198.0,112.4,False
+1116,HOUS-06,Household,313.0,180.78,False
+1117,HOUS-07,Household,129.0,95.44,False
+1118,HOUS-08,Household,231.0,151.51,False
+1119,HOUS-09,Household,220.0,166.12,False
+1120,HOUS-10,Household,209.0,168.33,False
